@@ -1,7 +1,7 @@
 ## 👋🏻 Hi, I'm Vincenzo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzoventriglia/)
-[![Website](https://img.shields.io/badge/-Website-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://viventriglia.github.io/portfolio/)
+[![Website](https://img.shields.io/badge/-Website-000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://vincenzoventriglia.com/)
 ![GitHub User's stars](https://img.shields.io/github/stars/viventriglia)
 
 I'm a **Data Scientist & Machine Learning Engineer**, focused on hype-free solutions tailored to business needs. I specialise in uncovering *hidden stories* in complex data and transforming them into *accessible, actionable insights* for stakeholders.
